@@ -1,0 +1,20 @@
+.appShell {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.innerApp {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.list {
+  max-width: 50px;
+  text-align: center;
+}
